@@ -1,0 +1,7 @@
+gradio>=4.0
+pdfplumber
+pandas
+pydantic
+python-dateutil
+pytesseract
+pillow
